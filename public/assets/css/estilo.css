@@ -1,0 +1,31 @@
+body {
+    /* background-color:#f6f6f6; */
+}
+.grupoCampos{
+    padding-top: 10px;
+}
+.form-group{
+    padding-top: 10px;
+}
+.card-login {
+    border: 1px solid rgb(134 188 38);
+    padding: 30px 20px;
+}
+#divImagem{
+    padding-top: 10px;
+}
+#imagemLogotipo{
+    height: 120px;
+    width: auto;
+} 
+
+.btn-login {
+    color: #fff;
+    background-color: #42a5f5;
+    border-color: #1565c0;
+}
+.btn-voltar{
+    color: #fff;
+    background-color: #ffeb3b;
+    border-color: #f9a825;
+}
